@@ -5,7 +5,6 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![HuggingFace DistilBERT](https://img.shields.io/badge/Transformers-DistilBERT-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -115,28 +114,8 @@ Student_Feedback_Analysis/
 └── data/                      # Processed datasets and stratified splits
 ```
 
----
-
-## 🌐 Deployment to Render
-
-To deploy this application to **[Render](https://render.com/)**:
-1. Connect your GitHub repository to a new **Web Service**.
-2. Set **Runtime** to `Python 3`.
-3. Set **Build Command**: `pip install -r requirements.txt`
-4. Set **Start Command**:
-   ```bash
-   streamlit run app.py --server.port $PORT --server.address 0.0.0.0
-   ```
-
----
-
 ## 👤 Author
 
 **Sahil Attar**
 - GitHub: [@Sahilattar](https://github.com/Sahilattar)
 - Project: [Student-Feedback-Analysis-ABSA-project](https://github.com/Sahilattar/Student-Feedback-Analysis-ABSA-project)
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
