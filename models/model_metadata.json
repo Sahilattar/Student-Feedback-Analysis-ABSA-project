@@ -1,0 +1,84 @@
+{
+    "best_model_name": "TF-IDF + Logistic Regression",
+    "metrics": {
+        "Model": "TF-IDF + Logistic Regression",
+        "Accuracy": 0.7789,
+        "Macro Precision": 0.6993,
+        "Macro Recall": 0.7241,
+        "Macro F1": 0.7097
+    },
+    "per_aspect_f1": {
+        "coursecontent": {
+            "macro_f1": 0.6656,
+            "accuracy": 0.7273,
+            "count": 33
+        },
+        "examination": {
+            "macro_f1": 0.8067,
+            "accuracy": 0.8182,
+            "count": 33
+        },
+        "extracurricular": {
+            "macro_f1": 0.6312,
+            "accuracy": 0.7941,
+            "count": 34
+        },
+        "labwork": {
+            "macro_f1": 0.4742,
+            "accuracy": 0.7273,
+            "count": 33
+        },
+        "library_facilities": {
+            "macro_f1": 0.6421,
+            "accuracy": 0.7188,
+            "count": 32
+        },
+        "teaching": {
+            "macro_f1": 0.8733,
+            "accuracy": 0.8824,
+            "count": 34
+        }
+    },
+    "classes": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "all_models_summary": [
+        {
+            "Model": "VADER Baseline",
+            "Accuracy": 0.7638,
+            "Macro Precision": 0.6683,
+            "Macro Recall": 0.5893,
+            "Macro F1": 0.611
+        },
+        {
+            "Model": "TF-IDF + Logistic Regression",
+            "Accuracy": 0.7789,
+            "Macro Precision": 0.6993,
+            "Macro Recall": 0.7241,
+            "Macro F1": 0.7097
+        },
+        {
+            "Model": "TF-IDF + Naive Bayes",
+            "Accuracy": 0.7638,
+            "Macro Precision": 0.7217,
+            "Macro Recall": 0.5956,
+            "Macro F1": 0.6122
+        },
+        {
+            "Model": "TF-IDF + Linear SVM",
+            "Accuracy": 0.799,
+            "Macro Precision": 0.7496,
+            "Macro Recall": 0.665,
+            "Macro F1": 0.6719
+        },
+        {
+            "Model": "DistilBERT (Fine-tuned)",
+            "Accuracy": 0.7789,
+            "Macro Precision": 0.6912,
+            "Macro Recall": 0.7305,
+            "Macro F1": 0.7044
+        }
+    ]
+}

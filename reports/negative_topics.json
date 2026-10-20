@@ -1,0 +1,212 @@
+{
+    "coursecontent": [
+        {
+            "topic_id": 1,
+            "label": "Curriculum Modernization Needs",
+            "keywords": [
+                "need",
+                "improvement",
+                "content",
+                "deep",
+                "improve"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Curriculum Modernization Needs",
+            "keywords": [
+                "course",
+                "content",
+                "depth",
+                "syllabus",
+                "material"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Curriculum Modernization Needs",
+            "keywords": [
+                "good",
+                "material",
+                "student",
+                "knowledge",
+                "required"
+            ]
+        }
+    ],
+    "examination": [
+        {
+            "topic_id": 1,
+            "label": "Strict Time Constraints & Exam Length",
+            "keywords": [
+                "good",
+                "examination",
+                "time",
+                "pattern",
+                "exam"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Assessment Pattern Fairness",
+            "keywords": [
+                "student",
+                "question",
+                "bad",
+                "test",
+                "stuff"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Strict Time Constraints & Exam Length",
+            "keywords": [
+                "exam",
+                "paper",
+                "answer",
+                "question",
+                "mark"
+            ]
+        }
+    ],
+    "extracurricular": [
+        {
+            "topic_id": 1,
+            "label": "Campus Engagement & Activity Support",
+            "keywords": [
+                "college",
+                "activity",
+                "mark",
+                "enjoy",
+                "fun"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Sports Facilities & Equipment Shortage",
+            "keywords": [
+                "good",
+                "time",
+                "given",
+                "lecture",
+                "participate"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Sports Facilities & Equipment Shortage",
+            "keywords": [
+                "activity",
+                "curricular",
+                "extra",
+                "student",
+                "participate"
+            ]
+        }
+    ],
+    "labwork": [
+        {
+            "topic_id": 1,
+            "label": "Malfunctioning Hardware & Slow Workstations",
+            "keywords": [
+                "need",
+                "equipment",
+                "work",
+                "old",
+                "improvement"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Laboratory Infrastructure & Maintenance",
+            "keywords": [
+                "good",
+                "lab",
+                "equipment",
+                "poor",
+                "proper"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Malfunctioning Hardware & Slow Workstations",
+            "keywords": [
+                "lab",
+                "mark",
+                "practical",
+                "teacher",
+                "work"
+            ]
+        }
+    ],
+    "library_facilities": [
+        {
+            "topic_id": 1,
+            "label": "Shortage of Latest Textbook Editions",
+            "keywords": [
+                "library",
+                "book",
+                "facility",
+                "good",
+                "week"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Shortage of Latest Textbook Editions",
+            "keywords": [
+                "book",
+                "available",
+                "required",
+                "student",
+                "number"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Shortage of Latest Textbook Editions",
+            "keywords": [
+                "book",
+                "poor",
+                "adequate",
+                "bad",
+                "increased"
+            ]
+        }
+    ],
+    "teaching": [
+        {
+            "topic_id": 1,
+            "label": "Pedagogy & Classroom Engagement",
+            "keywords": [
+                "good",
+                "teacher",
+                "student",
+                "lecture",
+                "subject"
+            ]
+        },
+        {
+            "topic_id": 2,
+            "label": "Conceptual Clarity & Doubt Resolution",
+            "keywords": [
+                "teacher",
+                "student",
+                "teaching",
+                "mark",
+                "content"
+            ]
+        },
+        {
+            "topic_id": 3,
+            "label": "Pedagogy & Classroom Engagement",
+            "keywords": [
+                "syllabus",
+                "teacher",
+                "indian",
+                "subject",
+                "time"
+            ]
+        }
+    ]
+}
